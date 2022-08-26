@@ -6,7 +6,7 @@ Python must be installed
 
 ```shell
 git clone https://github.com/mens0/discord-registration-script.git
-cd main.py
+cd discord_acount_maker
 python -m venv venv
 venv/scripts/activate
 pip install -r requirements.txt
